@@ -5,9 +5,9 @@ title: Arturo's Put Me in a Time Portal in Greenwich Village
 description: I mean, I ate the pizza at home, but jeez was that a four-piece
   jazz quartet on stage?
 ---
-![](../assets/arturospizza.jpeg)
 
 
+![](../assets/arturospizza-resize.jpeg)
 
 The three minutes I spent inside [Arturo’s Coal Oven Pizza](https://www.yelp.com/biz/arturos-new-york) this afternoon felt like I had stepped through a time portal into old New York — dim lighting, smoldering headshots on the walls, a four-piece jazz quartet swinging away on an elevated platform stage. I half-expected a smoky brunette to strut across the bar, blow cigarette smoke in my face and demand I stop staring and buy her a drink.
 
